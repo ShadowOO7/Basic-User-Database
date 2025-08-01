@@ -1,0 +1,19 @@
+REST API - JSON
+
+GET /users - HTML document render - Done
+GET /api/users - Lists all users as JSON  - Done
+
+GET /api/users/1 - Lists the user with ID 1  -  Done
+GET /api/users/2 - Lists the user with ID 2 - Done
+
+//Dynamic path parameters (like 1,2,3... after /api/users)
+GET /api/users/:id (: means it is dynamic variable)
+:id -> Variable | Dynamic 
+
+POST /api/users - Creates new user
+
+PATCH /api/users/1(1 is ID here) - Edit the existing user with ID : 1
+
+DELETE /api/users/1 - DELETE the users with ID : 1
+
+(we'll use mockaroo.com to generate fake data for testing purpose)

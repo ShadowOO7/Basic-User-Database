@@ -1,0 +1,10 @@
+
+1754054774365 : ::1 GET : /api/users/1001
+1754054857862 : ::1 GET : /api/users/688bad36b04c196d1a119163
+1754054880789 : ::1 GET : /api/users
+1754054890043 : ::1 GET : /users
+1754054893521 : ::1 GET : /users
+1754054943887 : ::1 POST : /api/users
+1754055044439 : ::1 GET : /api/users/688cc11f47bc68ff00b5dfd6
+1754055318076 : ::1 GET : /api/users/1000
+1754055347344 : ::1 GET : /api/users/1000
